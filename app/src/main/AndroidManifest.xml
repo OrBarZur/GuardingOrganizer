@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.keepingorganizer">
+    package="com.example.guardingorganizer">
 
     <application
         android:allowBackup="true"
@@ -10,9 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:windowSoftInputMode="adjustResize">
-        <activity android:name="com.example.keepingorganizer.HoursRatingActivity"></activity>
-        <activity android:name="com.example.keepingorganizer.DoneListActivity" />
-        <activity android:name="com.example.keepingorganizer.MainActivity">
+        <activity android:name="com.example.guardingorganizer.HoursRatingActivity"></activity>
+        <activity android:name="com.example.guardingorganizer.DoneListActivity" />
+        <activity android:name="com.example.guardingorganizer.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

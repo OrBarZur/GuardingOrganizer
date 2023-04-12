@@ -1,4 +1,4 @@
-package com.example.keepingorganizer;
+package com.example.guardingorganizer;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;

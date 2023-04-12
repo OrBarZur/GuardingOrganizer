@@ -1,4 +1,4 @@
-package com.example.keepingorganizer;
+package com.example.guardingorganizer;
 
 import org.joda.time.LocalDateTime;
 

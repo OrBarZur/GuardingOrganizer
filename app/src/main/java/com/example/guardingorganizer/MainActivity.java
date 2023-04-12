@@ -1,4 +1,4 @@
-package com.example.keepingorganizer;
+package com.example.guardingorganizer;
 
 import androidx.appcompat.app.AppCompatActivity;
 

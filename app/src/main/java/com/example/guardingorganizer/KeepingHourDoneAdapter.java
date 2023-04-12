@@ -1,27 +1,18 @@
-package com.example.keepingorganizer;
+package com.example.guardingorganizer;
 
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.Color;
-import android.graphics.Paint;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.text.style.StrikethroughSpan;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.PopupMenu;
-import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class KeepingHourDoneAdapter extends RecyclerView.Adapter<KeepingHourDoneAdapter.ViewHolder> {
